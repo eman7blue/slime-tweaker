@@ -35,7 +35,7 @@ Well I don't know really, I'm not Mojang, but I suspect it is because when you k
 
 ### Does that mean only 8 different sizes of slimes can spawn without commands?
 
-Yes, without using commands, setting the max size to 6 means only slimes of "NBT" size 0, 1, 3, 7, 15, 31, 63, and 126 spawn.
+Yes, without using commands, setting the max size to 7 means only slimes of "NBT" size 0, 1, 3, 7, 15, 31, 63, and 126 spawn.
 
 ### So what was that problem you were having?
 
