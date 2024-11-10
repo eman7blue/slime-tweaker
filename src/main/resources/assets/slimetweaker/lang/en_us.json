@@ -1,0 +1,4 @@
+{
+  "gamerule.maxSlimeSize": "Max size of slimes",
+  "gamerule.maxSlimeSize.description": "Don't go higher than 7 as larger numbers cause immense lag"
+}
